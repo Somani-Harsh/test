@@ -1,0 +1,17 @@
+setup.py
+app/__init__.py
+app/admin.py
+app/apps.py
+app/models.py
+app/tests.py
+app/views.py
+app/migrations/__init__.py
+project/__init__.py
+project/settings.py
+project/urls.py
+project/wsgi.py
+sample.egg-info/PKG-INFO
+sample.egg-info/SOURCES.txt
+sample.egg-info/dependency_links.txt
+sample.egg-info/requires.txt
+sample.egg-info/top_level.txt
